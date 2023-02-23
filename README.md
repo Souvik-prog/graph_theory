@@ -1,2 +1,2 @@
 # graph_theory
-Graph Theory Algoriths using Python
+All pairs shortest path using Floyd Warshall Algorithm and NetworkX
